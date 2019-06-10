@@ -1,0 +1,9 @@
+{
+	"insecure-registries": [""],
+	"registry-mirrors": [
+		"https://hub.vpclub.cn",
+		"https://l10nt4hq.mirror.aliyuncs.com",
+		"https://dockerhub.azk8s.cn",
+		"http://hub-mirror.c.163.com"
+	]
+}
